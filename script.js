@@ -13,7 +13,7 @@ const copyBtn = document.querySelector("#copyBtn");
 
 const emailForm = document.querySelector("#emailForm");
 
-const host = "http://localhost:3000";
+const host = "https://in-share-backend-nine.vercel.app";
 const uploadURL = `${host}/api/files`;
 const emailURL = `${host}/api/files/send`;
 
