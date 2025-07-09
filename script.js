@@ -13,7 +13,7 @@ const copyBtn = document.querySelector("#copyBtn");
 
 const emailForm = document.querySelector("#emailForm");
 
-const host = "https://in-share-backend-nine.vercel.app";
+const host = "https://inshare-backend-sdxe.onrender.com";
 const uploadURL = `${host}/api/files`;
 const emailURL = `${host}/api/files/send`;
 
